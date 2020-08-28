@@ -1,0 +1,39 @@
+body{
+  background-color: #ffc93c
+}
+
+hr {
+  border-color: white;
+  border-style:dotted;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  color: #393e46;
+   text-shadow: 2px 2px 5px red;
+}
+
+h2{
+  color: #393e46
+
+  text-shadow: 2px 2px 5px red;
+}
+
+
+
+
+  h3 {
+  color: #393e46;
+  text-shadow: 2px 2px 5px red;
+}
+
+h4 {
+  color: #393e46;
+   text-shadow: 2px 2px 5px red;
+}
+
+h5 {
+  color: #393e46
+  text-shadow: 2px 2px 5px red;
+}
